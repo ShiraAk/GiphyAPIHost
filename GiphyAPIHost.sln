@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiphyAPIService", "GiphyAPI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiphyAPIContract", "GiphyAPIContract\GiphyAPIContract.csproj", "{9B08C4D4-A8C2-4394-9FD9-B649DCC17579}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9FC72060-1276-4232-A72E-8A6E6E824D22}"
+	ProjectSection(SolutionItems) = preProject
+		READ ME.txt = READ ME.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -60,5 +60,8 @@
       <Name>GiphyAPIService</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="READ ME.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
